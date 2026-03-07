@@ -1,0 +1,14 @@
+ the workplace software team is being led by Randy right now What it means for us: workplace software will contain all of us the Windows platforms dev team plus the platform product integration and data team, which hari menon  used to lead, We are primarily working on 360 drive integrations, provisioning software by automation, Zoom, and all those things, Both dev groups together will be managed by Randy going forward I don't expect any major changes as such for us this year we will continue to focus on our book of work and continue to deliver what we've been planning There might be questions around the reporting structure, but as of now, there's no change—I will be leading the Windows or Workspace software team  and I’ll continue to report to Deepa for now
+
+There is a slight change in how we will be driving the scrum or the sprints for 2026
+Last year we followed a model where we just had issues in a backlog; now we are going one level above that We have a canvas board where we will be tracking all high-level deliverables and epics For example, in the app delivery space for Q1, we have epics for risk items, disabling AFS for demise apps, P2 servers, and autosync features
+
+
+We will continue to have a Jira scrum board, but it’s a new board We will only track tasks or stories tagged to specific epic The idea is to keep focusing on the planned book of work so we don't lose focus by working on ad-hoc things f you take a new task, go to the canvas board first, identify the right epic, and create the issue under that epic Use 'Task' for very small things finished in a few days, and 'Story' for complex items requiring multiple subtasks
+
+I’ve asked everyone to take a look at the active sprint that ended last Friday and update the status Please tag open items against the corresponding epics from the canvas board For this week, we’ll continue with the existing scrum board for updates We have less attendance today, so we’ll go by region updates
+
+"then there were discussion on the tickets"
+
+Going forward, the first 30 minutes of our calls will be for status and blockers. Then 5–10 minutes will be for engineering excellence metrics like SonarQube adoption. 
+The remaining time will be used to discuss projects like Galaxy and Theme so everyone understands why they were initiated If anyone has other topics or wants to present, let me know
