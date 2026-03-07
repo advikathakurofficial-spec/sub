@@ -1,0 +1,20 @@
+The goal here in the new APL team is to consolidate what we're doing in Windows engineering development and the system programming with what we're doing on the P side and to bring those teams together because... there are a lot of similarities and a lot of synergies that we get when we work together across the workplace teams
+
+Goldman is a financial services firm. All the technology that we do here is in service of the business and we need to keep the clients in mind. Doing technology for technology's sake is great but it's not the core purpose of the firm
+My general philosophy here is to keep it as simple as possible... so that we're really reflecting what is well supported in the SDLC stack. If we can keep it simple, we can progress quicker and give people more room to innovate... I do want to keep it modern. I know we've got a bunch of Angular sitting out there, and the firm's moving to React. So, I want to eventually get us onto a cadence where we're getting everything modernized and up to current at least once a year
+
+I want to encourage holistic ownership across the team. Meaning if you have the ability to solve problems in your space and adjacent spaces upstream or downstream, I want you to feel empowered to do so. I don't want to be a wet blanket on innovation... but we do have to be commercial about that and ensure that what we're doing fits into the SDLC stack... someone's got to come in and support it
+
+And then finally, I am hugely delivery focused... we don't just want to deliver it, we want people to know that we're delivering it. Communicating that out, communicating that up is a big piece of what I'm trying to bring in here... I want to make sure that people are getting credit for the good work that they're doing
+
+We are trying to get our hands around our own spaces right now... there will be some cross-pollination... We will try to work much more closely with FI... In the near term, what I'm looking to do is make sure that we have clear commercial cases for everything that we're doing
+
+I want to make sure that Maruna understands, Simon understands why we're doing what we're doing... To do that, I'm looking at getting a reporting cadence up to them... If you have anything that's bubbling under the surface that needs quick attention, please let me know... We don't want surprises
+
+Medium-term, you're going to hear a lot about AI and Devon adoption. We're supporting the lakehouse migrations... and then we'll be looking to move to cloud-friendly architectures. There's a lot of very senior level attention on that
+
+Longer term, we're looking at how we integrate with an SRE team, get the operational load off of the team here... to free you up to do more high-value work... I really want people to have the room to innovate... looking at adopting John Madson's approach to at least once annual upgrades
+
+We did get kind of a yellow light instead of a red light on some hiring... we will look at what we can do to backfill where we need to... but unfortunately, I can't promise quick relief... The idea here is just to be stable, keep the book of work running, and get everyone kind of through the first quarter and into the second quarter on the same delivery pipelines
+
+I appreciate everyone joining today... looking forward to the opportunities... we will chat soon
